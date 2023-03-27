@@ -16,6 +16,11 @@ namespace quize1
             int g = d / e;
 
             Console.WriteLine(g);
+            
+            
+            int g1 = e / d;
+
+            Console.WriteLine(g1);
 
             int h = d / 2;
             int j = e / 2;
